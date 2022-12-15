@@ -35,14 +35,18 @@
    <img src=".github/compra-finalizada.png" alt="home do projeto">
 </p>
 
-</br>
+</br
+
+
+
+>
 
 <h2>Sanity</h2>
 <p align="center">
    <img src=".github/sanity.png" alt="home do projeto">
 </p> -->
 
-<video width="100%" src=".github/video.mp4">
+https://user-images.githubusercontent.com/103151728/207752959-7e72ff84-9fbd-4965-8374-0d315c7fbd31.mp4
 
 # #🚀 Principais Tecnologias e Ferramentas
 
