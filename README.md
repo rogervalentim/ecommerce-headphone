@@ -9,7 +9,7 @@
 
 <br />
 
-<h2>Página com detalhes do produto, e com a funcionabilidade de adicionar os produtos selecionados para o carrinho </h2>
+<!-- <h2>Página com detalhes do produto, e com a funcionabilidade de adicionar os produtos selecionados para o carrinho </h2>
 <p align="center">
    <img src=".github/pagina-inicial.png" alt="home do projeto">
 </p>
@@ -40,7 +40,7 @@
 <h2>Sanity</h2>
 <p align="center">
    <img src=".github/sanity.png" alt="home do projeto">
-</p>
+</p> -->
 
 <video width="100%" src=".github/video.mp4">
 
