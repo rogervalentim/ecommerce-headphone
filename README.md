@@ -42,6 +42,7 @@
    <img src=".github/sanity.png" alt="home do projeto">
 </p>
 
+<video width="100%" src=".github/video.mp4">
 
 # #🚀 Principais Tecnologias e Ferramentas
 
