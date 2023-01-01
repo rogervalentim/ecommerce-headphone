@@ -1,58 +1,23 @@
-<h1 align="center">Ecommerce</h1>
-
-<p align="center">Ecommerce com a funcionabilidade de carrinho e com pagamento final</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<br />
-
-<!-- <h2>Página com detalhes do produto, e com a funcionabilidade de adicionar os produtos selecionados para o carrinho </h2>
-<p align="center">
-   <img src=".github/pagina-inicial.png" alt="home do projeto">
-</p>
-
-<br/>
-
-<h2>Carrinho</h2>
-<p align="center">
-   <img src=".github/carrinho.png" alt="carrinho">
-</p>
-
-<br/>
-
-<h2>tela de Pagamento com Stripe</h2>
-<p align="center">
-   <img src=".github/pagamento-tela.png" alt="forma de pagamento">
-</p>
-
-<br/>
-
-<h2>Compra finalizada com sucesso ! </h2>
-<p align="center">
-   <img src=".github/compra-finalizada.png" alt="home do projeto">
-</p>
-
-</br
 
 
+<h1 align="center">🎧Ecommerce</h1><span>
 
->
+<div align="center">
+<img src=".github/pagina-inicial.png">
+</div>
 
-<h2>Sanity</h2>
-<p align="center">
-   <img src=".github/sanity.png" alt="home do projeto">
-</p> -->
+<div align="center">
+<a href="https://ecommerce-headphone.vercel.app/" target="_blank">clique para visitar o projeto</a>
+</div>
 
-https://user-images.githubusercontent.com/103151728/207752959-7e72ff84-9fbd-4965-8374-0d315c7fbd31.mp4
 
-# #🚀 Principais Tecnologias e Ferramentas
+<h1>💼 Tecnologias utilizadas</h1>
+<p>Para o desenvolvimento deste site utilizei as seguintes tecnologias:</p>
+<ul>
+<li>Next js</li>
+<li>Sanity</li>
+<li>Stripe</li>
+<li>Api</li>
+</ul>
 
-- NEXT JS
-- SANITY
-- STRIPE
-- API
-- TOAST
 
